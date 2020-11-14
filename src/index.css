@@ -1,0 +1,26 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  padding: 2rem;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  background: linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%);
+  scroll-behavior: none;
+}
+.video{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width:600px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  margin: 10px;
+}
